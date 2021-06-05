@@ -56,12 +56,12 @@ p {
 }
 
 a {
-  color: black;
-  text-decoration: none;
+  color: blue;
+  text-decoration: underline ;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: unset;
 }
 
 @media only screen and (max-width: 1042px) {
